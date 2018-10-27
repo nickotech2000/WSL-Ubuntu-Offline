@@ -1,6 +1,9 @@
 # WSL-Ubuntu-Offline
 WSL ubuntu offline only with some tools and coding
 
+thanks to: https://github.com/DDoSolitary/LxRunOffline
+and I help people for quick use of ubuntu wsl offline ready for development.
+
 Readme first
 
 This is just for fun of my personal WSL Ubuntu run on Windows. 
