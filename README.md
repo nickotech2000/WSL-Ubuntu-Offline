@@ -38,10 +38,9 @@ How to use
 
 2. Open powershell with elevate run as Administrator !!!!!
 3. run: Set-ExecutionPolicy remotesigned  and choose ALL
-4. run: ubuntu.ps1 (powershell) with elevate run as Administrator !!!
+
 
 Contents of this Ubuntu WSL
-- Ubuntu 16
-- Tools: autoconf, cmake, gdb, automake, python, nodejs, dotnet core, openjdk, supervisor, aptitude, mongodb clients, mssql tools, samba
-- NodeJS with NVM. You can choose between
+- Ubuntu 16, Ubuntu 18.04, Ubuntu 20.04
+- - NodeJS with NVM. You can choose between nodejs runtime
 
