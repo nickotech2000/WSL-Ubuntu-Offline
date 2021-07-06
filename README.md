@@ -44,3 +44,9 @@ Contents of this Ubuntu WSL
 - Ubuntu 16, Ubuntu 18.04, Ubuntu 20.04
 - - NodeJS with NVM. You can choose between nodejs runtime
 
+## SDK and Runtime contents:
+
+![image](https://user-images.githubusercontent.com/51929/124544118-17f01e00-de59-11eb-8157-6a8c5d0a09c2.png)
+
+
+
